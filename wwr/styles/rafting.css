@@ -54,7 +54,7 @@ h1 {
   padding: 16px;
   text-align: center;
   background-color: var(--accent1-color);
-  color: #fff; /* white text – make sure there is enough contrast with the background-color */
+  color: #fff;
 }
 .hero article {
   position: absolute;
