@@ -34,7 +34,7 @@ nav, p, section, article {
   padding: 8px;
 }
 .socialmedia a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 /* Class Selectors */
@@ -58,7 +58,7 @@ h1 {
   color: #fff; /* white text – make sure there is enough contrast with the background-color */
 }
 .hero article {
-  position: abosulte
+  position: absolute;
 }
 .hero article img {
   float: right;
